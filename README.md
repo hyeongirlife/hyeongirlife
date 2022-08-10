@@ -12,6 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Lee%20Hyeongeol&fontSize=90)
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
+👋 Hi there! I'm Junior web developer in Korea.
