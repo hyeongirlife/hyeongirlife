@@ -7,7 +7,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-## LeeHyeongeol : Jr Backend developer
+## Jr Backend developer
 
 안녕하세요. 주니어 백엔드 개발자 이현걸 입니다.
 
