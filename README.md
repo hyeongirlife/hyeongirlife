@@ -6,10 +6,7 @@
         src="https://img.shields.io/github/followers/LeeHyeongeol?label=LeeHyeongeol%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
-
-## Jr Backend developer
-
-안녕하세요. 주니어 백엔드 개발자 이현걸 입니다.
+안녕하세요.
 
 ## Stack
 
