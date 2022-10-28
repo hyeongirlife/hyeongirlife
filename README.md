@@ -1,26 +1,18 @@
-<div>
-    <img 
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    <img 
-        src="https://img.shields.io/github/followers/LeeHyeongeol?label=LeeHyeongeol%20Followers&style=social"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</div>
-안녕하세요.
+### Hi there 👋   
 
-## Stack
+ - 💻   **I'm a Junior Backend Develover**    
 
-- React.js
-- Node.js
-- MySQL
-- PostgreSQL
+ - 🇰🇷  **I'm working in South Korea**
 
+### How to reach me? 🤔
 
-<a href="https://velog.io/@boo1996">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://velog.io/@boo1996"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+- 📮  **hyeongirlife's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leehyeongul@gmail.com)](mailto:fomagran6@gmail.com)
+
+- 📒  **hyeongirlife's blog ...** [![Velog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/78716380afe242449bfb027d36143836?v=03408d46b35e48eda33f4b882e111a06/)](https://www.notion.so/78716380afe242449bfb027d36143836?v=03408d46b35e48eda33f4b882e111a06)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHyeongeol&show_icons=true&theme=great-gatsby)   
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffomagran&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 ## 📖 프로젝트
 #### 1. FilmStorage
