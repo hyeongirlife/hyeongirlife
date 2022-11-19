@@ -1,6 +1,5 @@
 <div align="center">
  
-### Hi there 👋   
 
   💻   **I'm a Junior Backend Develover**    
 
