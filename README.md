@@ -7,7 +7,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHyeongeol&show_icons=true&theme=great-gatsby)   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongirlife&show_icons=true&theme=radical)
 
 
 
