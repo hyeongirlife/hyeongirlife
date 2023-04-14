@@ -17,7 +17,7 @@
 [_JavaScript TypeScript_]
  
 #### Framework
- [_expressJS NestJS_]
+ [_Express NestJS_]
  
 #### Database
  [_PostgreSQL MySQL_]
