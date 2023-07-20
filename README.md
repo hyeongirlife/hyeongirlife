@@ -8,8 +8,10 @@
  저는 주니어 백엔드 개발자 이현걸 입니다.**
 
  <br />
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongirlife&show_icons=true&theme=radical)
+
+[![Hyeongirlife's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongirlife&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/alstjs1207/github-readme-stats)
+
+
  
  ## 📚 Stack
  
@@ -21,6 +23,10 @@
  
 #### Database
  [_PostgreSQL MySQL_]
+ 
+ <br />
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongirlife&layout=compact&theme=tokyonight)
 
  <br />
  
