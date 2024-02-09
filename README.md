@@ -3,9 +3,8 @@
 ## :seedling: About Me
  <br />
  
- &nbsp;**안녕하세요
- <br />
- 저는 주니어 백엔드 개발자 이현걸 입니다.**
+ &nbsp;**<em>Hi! I'm Hyeon-geol, a 2nd year backend developer! 
+ <br />I work mostly with interest in architecture and type</em>**
 
  <br />
 
@@ -23,6 +22,9 @@
  
 #### Database
  [_PostgreSQL MySQL_]
+
+#### Infra
+ [_Docker AWS EC2 AWS RDS_]
  
  <br />
 
