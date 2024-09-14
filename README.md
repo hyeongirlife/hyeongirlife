@@ -1,51 +1,39 @@
-<div align="center">
- 
-## :seedling: About Me
- <br />
- 
- &nbsp;**<em>Hi! I'm Hyeon-geol, a 2nd year backend developer! 
- <br />I work mostly with interest in architecture and type</em>**
+ ## Hello, I'm Hyeon-geol Lee 👋
 
- <br />
+ 
+## 🚀 About Me
+
+🎓 Backend engineer with 2 years of experience, currently working at an education technology company in Seoul.  
+🌟 Passionate about building robust and scalable systems.  
+🔍 interested in software architecture and continuously learning.
+
+## 🛠️ Tech Stack
+
+### Languages
+- JavaScript
+- TypeScript
+
+### Frameworks
+- Express
+- NestJS
+
+### Databases
+- PostgreSQL
+- MySQL
+
+### Infrastructure
+- Docker
+- AWS (EC2, RDS, S3, CloudFront, Lambda)
+
+## 🌱 Current Interests
+
+- Java and Spring Framework
+- JPA (Java Persistence API)
+- Database performance tuning
+
+## 📊 GitHub Stats
 
 [![Hyeongirlife's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongirlife&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/alstjs1207/github-readme-stats)
 
-
- 
- ## 📚 Stack
- 
-#### Language
-[_JavaScript TypeScript_]
- 
-#### Framework
- [_Express NestJS_]
- 
-#### Database
- [_PostgreSQL MySQL_]
-
-#### Infra
- [_Docker AWS EC2 AWS RDS_]
- 
- <br />
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongirlife&layout=compact&theme=tokyonight)
-
- <br />
- 
-## 📖 프로젝트
-#### 1. FilmStorage
-
-_"위치기반 필름 정보 공유 및 추천 서비스"_
-
-배포 링크 : https://filmstorage.ga</br>
-Github : https://github.com/codestates/FilmStorage
-
-#### 2. 33Plan
-
-_"메타인지 향상을 위한 플래너 서비스"_
-
-배포 링크 : https://33plan-woo.ga</br>
-Github : https://github.com/codestates/33Plan
-
-
 </div>
+
