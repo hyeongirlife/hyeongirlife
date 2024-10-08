@@ -23,7 +23,7 @@
 
 ### Infrastructure
 - Docker
-- AWS (EC2, RDS, S3, CloudFront, Lambda)
+- AWS services
 
 ## 🌱 Current Interests
 
@@ -31,9 +31,7 @@
 - JPA (Java Persistence API)
 - Database performance tuning
 
-## 📊 GitHub Stats
-
-[![Hyeongirlife's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongirlife&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/alstjs1207/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyeongirlife)
 
 </div>
 
