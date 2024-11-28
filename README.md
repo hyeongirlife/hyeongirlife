@@ -29,6 +29,7 @@
 
 - Java and Spring Framework
 - JPA (Java Persistence API)
+- Python
 - Database performance tuning
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyeongirlife)
