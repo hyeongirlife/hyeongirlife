@@ -9,7 +9,6 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-- 💻 JavaScript
 - 📜 TypeScript
 
 ### Frameworks
