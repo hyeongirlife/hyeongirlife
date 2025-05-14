@@ -4,7 +4,7 @@
 
 🎓 **Backend Engineer** with 2 years of experience, currently working at an **Education Technology** company in Seoul.  
 🌟 Passionate about building **robust** and **scalable systems**.  
-🔍 Interested in **software architecture** and continuously learning.
+🔍 Interested in **software architecture** and **AGI**.
 
 ## 🛠️ Tech Stack
 
