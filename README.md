@@ -6,16 +6,14 @@ I'm a **Backend Engineer** with **3 years of hands-on experience** building and 
 I focus on designing **resilient microservices**, **domain-driven architectures**, and crafting **clean, maintainable code**.
 
 - 💼 Currently working at an **Education Technology company** in Seoul  
-- 📚 Advocating for **software craftsmanship** and **technical excellence**  
-- 🔭 Exploring **system design patterns**, **distributed systems**, and **AGI**
+- 📚 Advocating for **software craftsmanship** and **technical excellence**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages  
-- **TypeScript** (primary)  
-- JavaScript, SQL, Shell scripting
+- **TypeScript** (primary)
 
 ### ⚙️ Backend Frameworks  
 - **NestJS** (Core expertise)  
@@ -27,8 +25,7 @@ I focus on designing **resilient microservices**, **domain-driven architectures*
 - Experience with query optimization, indexing, and data migration
 
 ### ☁️ Infrastructure & DevOps  
-- Docker, Docker Compose  
-- AWS (EC2, ECS, S3, RDS, CloudWatch, Lambda)  
+- AWS Services, Kubernetes
 
 ### 🧠 Architecture & Practices  
 - Microservices (MSA)  
@@ -37,12 +34,7 @@ I focus on designing **resilient microservices**, **domain-driven architectures*
 ---
 
 ## 🌱 Current Focus & Learning
-
-- 🏗️ **High-throughput system design**  
-- 🔍 Database performance tuning (PostgreSQL, indexing strategies)  
-- ⚡ Event streaming systems (Kafka, Redis Streams)  
-- 🧠 AGI research trends (LLMs, inference APIs)
-
+- 🔍 AWS Services, Kubernetes
 ---
 
 ## 📜 Certifications
