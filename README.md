@@ -1,56 +1,41 @@
-## 👋 Hi, I'm Hyeon-geol Lee
+## 안녕하세요, 이현걸입니다
 
-## 🚀 About Me
-
-I'm a **Backend Engineer** with **3 years of hands-on experience** building and scaling backend systems in **EdTech** and **event-based service platforms**.  
-I focus on designing **resilient microservices**, **domain-driven architectures**, and crafting **clean, maintainable code**.
-
-- 💼 Currently working at an **Education Technology company** in Seoul  
-- 📚 Advocating for **software craftsmanship** and **technical excellence**
+4년차 백엔드 엔지니어로, 에듀테크 기업에서 근무하고 있습니다. AI 어시스턴트를 적극 활용하며 비즈니스 요구사항을 효율적인 기술 솔루션으로 전환하는 데 집중합니다. AWS 기반 인프라 설계부터 백엔드 아키텍처까지 폭넓은 경험을 쌓고 있으며, 최근 EKS 아키텍처 최적화로 인프라 비용 40% 절감을 달성했습니다.
 
 ---
 
-## 🛠️ Tech Stack
+## 기술 스택
 
-### 👨‍💻 Languages  
-- **TypeScript** (primary)
+**언어 & 프레임워크**  
+TypeScript · NestJS · Express
 
-### ⚙️ Backend Frameworks  
-- **NestJS** (Core expertise)  
-- Express  
-- REST API Design
+**데이터베이스**  
+PostgreSQL · MySQL · MongoDB
 
-### 🗄️ Databases  
-- **PostgreSQL**, MySQL, MongoDB  
-- Experience with query optimization, indexing, and data migration
+**인프라**  
+AWS · Kubernetes
 
-### ☁️ Infrastructure & DevOps  
-- AWS Services, Kubernetes
+**모니터링**  
+Prometheus · Grafana
 
-### 🧠 Architecture & Practices  
-- Microservices (MSA)  
-- Clean Architecture, SOLID principles
+**아키텍처**  
+Clean Architecture
 
 ---
 
-## 🌱 Current Focus & Learning
-- 🔍 AWS Services, Kubernetes
----
-
-## 📜 Certifications
+## 자격증
 
 [![AWS Certified Solutions Architect - Associate](https://github.com/user-attachments/assets/233fd521-e50a-4e5a-9e5e-9bbfa991c763)](https://www.credly.com/badges/bdcbad36-3373-422b-bff2-270e9889d342)
 
 ---
 
-## 🔗 GitHub Stats
+## GitHub 활동
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hyeongirlife&theme=prussian&mode=weekly)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongirlife&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hyeongirlife&theme=prussian&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
-## 💬 Let’s Connect
+## 연락
 
-I’m always open to exchanging ideas on architecture, system design, and emerging tech.  
-Feel free to reach out via GitHub issues or [LinkedIn](https://www.linkedin.com/in/hyeongeol-lee)!
+언제든 연락 주시기 바랍니다.  
+[LinkedIn](https://www.linkedin.com/in/hyeongeol-lee)
