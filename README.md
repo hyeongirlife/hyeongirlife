@@ -27,11 +27,6 @@ Clean Architecture
 
 [![AWS Certified Solutions Architect - Associate](https://github.com/user-attachments/assets/233fd521-e50a-4e5a-9e5e-9bbfa991c763)](https://www.credly.com/badges/bdcbad36-3373-422b-bff2-270e9889d342)
 
----
-
-## GitHub 활동
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hyeongirlife&theme=prussian&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
