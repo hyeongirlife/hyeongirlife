@@ -2,6 +2,8 @@
 
 4년차 백엔드 엔지니어로, 에듀테크 기업에서 근무하고 있습니다. AI 어시스턴트를 적극 활용하며 비즈니스 요구사항을 효율적인 기술 솔루션으로 전환하는 데 집중합니다. AWS 기반 인프라 설계부터 백엔드 아키텍처까지 폭넓은 경험을 쌓고 있으며, 최근 EKS 아키텍처 최적화로 인프라 비용 40% 절감을 달성했습니다.
 
+현재는 수신·금리 도메인에 깊은 관심을 갖고, 예금 계좌의 생명주기 관리와 트랜잭션 정합성 문제를 Kotlin + Spring Boot로 직접 설계·구현하며 학습하고 있습니다.
+
 ---
 
 ## 기술 스택
@@ -23,10 +25,17 @@ Clean Architecture
 
 ---
 
+## 진행 중인 프로젝트
+
+**[bank-core](https://github.com/hyeongirlife/bank-core)** — 수신/금리 도메인 서버 (진행 중)  
+Kotlin · Spring Boot · JPA · MySQL · Redis · EKS  
+수신 도메인의 핵심 문제인 계좌 생명주기 관리, 금리 계산 엔진, 이자 산출, 그리고 금융 거래의 정합성 보장을 직접 구현하고 있습니다.
+
+---
+
 ## 자격증
 
 [![AWS Certified Solutions Architect - Associate](https://github.com/user-attachments/assets/233fd521-e50a-4e5a-9e5e-9bbfa991c763)](https://www.credly.com/badges/bdcbad36-3373-422b-bff2-270e9889d342)
-
 
 ---
 
